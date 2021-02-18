@@ -1,4 +1,4 @@
 # practical-binary
 
-Practice ELF file
+Practice ELF files
 
